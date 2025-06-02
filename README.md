@@ -19,8 +19,8 @@
   - Python (Pandas, NumPy)
   - Data Visualization (Matplotlib, Seaborn)
   - Jupyter Notebook for interactive analysis
-
-# This project provides valuable insights for both customers and ride-hailing companies by optimizing fare estimations and predicting peak demand times. 🚖📊
+---
+This project provides valuable insights for both customers and ride-hailing companies by optimizing fare estimations and predicting peak demand times. 🚖📊
 
 # 👤 Author
   **[Yashraj Singh]**
